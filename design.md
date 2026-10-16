@@ -2,6 +2,7 @@
 
 BBT 3201 Artificial Intelligence, Topic 3: Problem Solving Agents.
 Lecturer: Allan Vikiru. Student: [name], Adm. No: [number].
+![Group photo](Group photo.png)
 
 ---
 
