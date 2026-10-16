@@ -3,6 +3,7 @@
 Group Members:
 Davis Mutua - 190291
 Gitau Brian - 145765
+Kiptoo Dorcas - 151101
 
 ![Group photo](Group%20photo.png)
 
