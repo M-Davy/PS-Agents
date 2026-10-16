@@ -1,7 +1,6 @@
 # Self-Driving Trailer Agent: PEAS, Graph, Search Tree and Optimal Path
 
-BBT 3201 Artificial Intelligence, Topic 3: Problem Solving Agents.
-Lecturer: Allan Vikiru.
+Group Members:
 Davis Mutua - 190291
 Gitau Brian - 145765
 
